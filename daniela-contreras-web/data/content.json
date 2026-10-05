@@ -1,0 +1,82 @@
+{
+  "hero": {
+    "lede_es": "Ayudo a empresas tech en crecimiento a recuperar el control de proyectos que se están retrasando para que puedan dejar de perder dinero por retrasos y mantener a sus equipos enfocados.",
+    "lede_en": "I help growing tech companies regain control of delayed projects so they can stop losing money on delays and keep their teams focused.",
+    "calendly_url": "https://calendly.com/daniela-athenainnova/30min"
+  },
+  "personal_note": {
+    "es": "Tenis, deportes en general y naturaleza los fines de semana, y una vida en la que conozco el mundo — moverme entre programas y ciudades ya me sale bastante natural.",
+    "en": "Tennis, sports in general and nature on weekends, and a life spent getting to know the world — moving between programmes and cities comes fairly naturally by now."
+  },
+  "services": [
+    {
+      "price_es": "Desde 1.200 € / proyecto",
+      "price_en": "From €1,200 / project",
+      "title_es": "Rescate / Auditoría de Proyectos",
+      "title_en": "Project Rescue / Audit",
+      "desc_es": "Diagnóstico completo de uno o más proyectos en caos, con plan de acción priorizado.",
+      "desc_en": "Full diagnosis of one or more projects in chaos, with a prioritised action plan.",
+      "flagship": true,
+      "payments": []
+    },
+    {
+      "price_es": "900 € / proyecto",
+      "price_en": "€900 / project",
+      "title_es": "Setup de Operación",
+      "title_en": "Operating Setup",
+      "desc_es": "Monto la cadencia, el reporting y la gobernanza de tu operación de proyectos en 1 semana.",
+      "desc_en": "I set up the cadence, reporting and governance for your project operation in 1 week.",
+      "flagship": false,
+      "payments": [
+        { "label_es": "Pagar ahora — 900 €", "label_en": "Pay now — €900", "url": "https://buy.stripe.com/fZufZh7qfalR7EE1HWbo403" }
+      ]
+    },
+    {
+      "price_es": "Desde 650 € / 10h",
+      "price_en": "From €650 / 10h",
+      "title_es": "Interim PM/PMO (pack de horas)",
+      "title_en": "Interim PM/PMO (hours pack)",
+      "desc_es": "Capacidad de dirección de proyecto por horas, sin contratar a tiempo completo.",
+      "desc_en": "Project-management capacity by the hour, without a full-time hire.",
+      "flagship": false,
+      "payments": [
+        { "label_es": "Pagar ahora — 650 € (10h)", "label_en": "Pay now — €650 (10h)", "url": "https://buy.stripe.com/eVq9AT4e38dJf763Q4bo405" }
+      ]
+    },
+    {
+      "price_es": "180–280 €",
+      "price_en": "€180–280",
+      "title_es": "Project Health Check",
+      "title_en": "Project Health Check",
+      "desc_es": "Convierto tus notas y actas de reuniones en un status report ejecutivo + RAID log priorizado, en 48h.",
+      "desc_en": "I turn your meeting notes and updates into an executive status report + a prioritised RAID log, in 48h.",
+      "flagship": false,
+      "payments": [
+        { "label_es": "Pagar 180 € (1 proyecto)", "label_en": "Pay €180 (1 project)", "url": "https://buy.stripe.com/7sY3cv4e3ctZ3oofyMbo401" },
+        { "label_es": "Pagar 280 € (hasta 3 proyectos)", "label_en": "Pay €280 (up to 3 projects)", "url": "https://buy.stripe.com/28E14nh0P3Xt7EE3Q4bo406" }
+      ]
+    },
+    {
+      "price_es": "180 € / 90 min",
+      "price_en": "€180 / 90 min",
+      "title_es": "Sesión SOS",
+      "title_en": "SOS Session",
+      "desc_es": "90 minutos para destrabar una decisión o un problema puntual de proyecto. Entregable: un reporte en 24h.",
+      "desc_en": "90 minutes to unblock a stuck decision or a specific project problem. Deliverable: a report within 24h.",
+      "flagship": false,
+      "payments": [
+        { "label_es": "Pagar ahora — 180 €", "label_en": "Pay now — €180", "url": "https://buy.stripe.com/aFaeVd39Z1PlaQQ1HWbo400" }
+      ]
+    },
+    {
+      "price_es": "Desde 1.500 € / mes",
+      "price_en": "From €1,500 / month",
+      "title_es": "PMO Fraccional (retainer)",
+      "title_en": "Fractional PMO (retainer)",
+      "desc_es": "Dirección de PMO part-time y mes a mes: gobierno, reporting ejecutivo y visibilidad continua, sin el costo de un cargo full-time.",
+      "desc_en": "Part-time, month-to-month PMO leadership: governance, executive reporting and ongoing visibility, without the cost of a full-time hire.",
+      "flagship": false,
+      "payments": []
+    }
+  ]
+}
